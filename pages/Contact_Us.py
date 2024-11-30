@@ -21,3 +21,4 @@ From: {user_email}
 
     if button:
         send_email(message=message)
+        st.info('Email Sent Successfully!')
