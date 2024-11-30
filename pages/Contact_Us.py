@@ -1,5 +1,5 @@
 import streamlit as st
-import smmap,ssl
+#import smmap,ssl
 from send_email import send_email
 
 st.header('I would love to hear from you'.title())
